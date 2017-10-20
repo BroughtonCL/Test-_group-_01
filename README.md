@@ -13,15 +13,15 @@ We plan to run the following test cases on each build teseted:
 * Test Case Designer:
   * Name
 * Creation Date:
-  * Date
+  * Date 10/19/17
 * Modified By:
-  * Name
+  * Name 
 * Modified Date:
   * Date
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
-  * Description
+  * DescriptionThe first version of the game wuill run on Windows 7 and 10 in a standalone environment. The tests will occure on 'builds' downloaded and installed on the test machines. The Waffle Group used the Unity game engine to develop this application and as such provides teh drivers to run the game in under Windows 7 (professional) and Windoes 10 (Home Edition).
 * Pre-Test Conditions:
   * Description
 ## Test Steps: 
@@ -101,6 +101,7 @@ This scene should:
 5.  Pause the game and drop a Pause panel that allows (Resume, Main Menu, Controls andSettings)
 6.  Display score and game over panel at end of match (Main Menu, and Play again)
 ## Overall Test Status:
+
 
 
 ## Run History:
