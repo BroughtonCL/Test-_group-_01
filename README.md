@@ -100,3 +100,12 @@ This scene should:
 4.  Play the game
 5.  Pause the game and drop a Pause panel that allows (Resume, Main Menu, Controls andSettings)
 6.  Display score and game over panel at end of match (Main Menu, and Play again)
+## Overall Test Status:
+
+
+## Run History:
+| # |	Run Date |	Run By |	Results |
+| --- | --- | --- | --- |
+| 1 | | | |			
+| 2 | | | |			
+| 3 | | | |
