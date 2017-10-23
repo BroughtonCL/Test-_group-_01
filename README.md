@@ -27,11 +27,11 @@ We plan to run the following test cases on each build teseted:
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
+| 1 | Main Menu| | |			
+| 2 | Game Setup| | |			
+| 3 | SA Neon Arena| | |			
+| 4 | Lumnos Cave Arena| | |			
+| 5 |Asian Arena | | |			
 | 6 | | | |			
 | 7 | | | |			
 | 8 | | | |			
