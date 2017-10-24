@@ -29,11 +29,11 @@ We plan to run the following test cases on each build teseted:
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
 | 1 | Main Menu|The game should have the opening scene and provide player options. The quick play should offer a default arena and match. The help option will explain the controls after which you have the quit option which will exit play. | |			
-| 2 | Game Setup| The set up should allow the players to select characters, choose play areas, and  | |			
-| 3 | SA Neon Arena| | |			
+| 2 | Game Setup| The set up should allow the players to select characters, choose play areas, and provide a save and quit option. | |			
+| 3 | SA Neon Arena|Setting is the neon Arena surface. Start the match and timer and play game. While in pause mode you are offered the chance to Resume, go to main menu,  or go to controls/settings. | |			
 | 4 | Lumnos Cave Arena| | |			
 | 5 |Asian Arena | | |			
-| 6 |Install, Load Start | | |			
+| 6 |Install, Load Start |Game should load expediently with options presented on the main menu. The mainmenu will load on user command or after five seconds. | |			
 | 7 | | | |			
 | 8 | | | |			
 | 9 | | | |			
@@ -43,9 +43,9 @@ We plan to run the following test cases on each build teseted:
 ##### Install, Load Start
 |Function |Expected results on Windows 7 OS PC                                     |
 |---------|------------------------------------------------------------------------|
-|Install game|Zip file extractw without errors - data fiela nd exe in taget location|
+|Install game|Zip file extract without errors - data field and exe in target location|
 |Sart/load game|Double click on exe -after splash screen ask user for display options then starts game load scene|
-|Load->Main Menu|Main Menu laods after 5 seconds or user clich (which happens first)|
+|Load->Main Menu|Main Menu loads after 5 seconds or user click (which happens first)|
 
 ##### Main Menu (02_MainMenu)
 |Button   |Expected action                                                            |
@@ -63,8 +63,8 @@ The Chose Your Blitzer panel should allow the user to do the following:
 2.  Change weather the avatar get controlled by the user or the computer
 3.  Change the player's avatar.
 4.  Change the controller used to control the avatar
-5.  Change between two and for players
-6.   Go back to the Main Menu
+5.  Change between two and four players
+6.  Go back to the Main Menu
 7.  Go to the Match Settings panel
 
 The Match Settings Panel should do the following:
