@@ -23,16 +23,17 @@ We plan to run the following test cases on each build teseted:
 * Test Description/Purpose:
   * DescriptionThe first version of the game wuill run on Windows 7 and 10 in a standalone environment. The tests will occure on 'builds' downloaded and installed on the test machines. The Waffle Group used the Unity game engine to develop this application and as such provides teh drivers to run the game in under Windows 7 (professional) and Windoes 10 (Home Edition).
 * Pre-Test Conditions:
-  * Description
+  * Description 
+  Main Menu should  be able to load  and  display the  menu option . Levels  should be able to load  and  run .
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | Main Menu| | |			
-| 2 | Game Setup| | |			
+| 1 | Main Menu|The game should have the opening scene and provide player options. The quick play should offer a default arena and match. The help option will explain the controls after which you have the quit option which will exit play. | |			
+| 2 | Game Setup| The set up should allow the players to select characters, choose play areas, and  | |			
 | 3 | SA Neon Arena| | |			
 | 4 | Lumnos Cave Arena| | |			
 | 5 |Asian Arena | | |			
-| 6 | | | |			
+| 6 |Install, Load Start | | |			
 | 7 | | | |			
 | 8 | | | |			
 | 9 | | | |			
