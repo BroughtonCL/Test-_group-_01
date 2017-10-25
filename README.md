@@ -31,8 +31,8 @@ We plan to run the following test cases on each build teseted:
 | 1 | Main Menu|The game should have the opening scene and provide player options. The quick play should offer a default arena and match. The help option will explain the controls after which you have the quit option which will exit play. | |			
 | 2 | Game Setup| The set up should allow the players to select characters, choose play areas, and provide a save and quit option. | |			
 | 3 | SA Neon Arena|Setting is the neon Arena surface. Start the match and timer and play game. While in pause mode you are offered the chance to Resume, go to main menu,  or go to controls/settings. | |			
-| 4 | Lumnos Cave Arena| | |			
-| 5 |Asian Arena | | |			
+| 4 | Lumnos Cave Arena|Setting is the neon Arena surface. Start the match and timer and play game. While in pause mode you are offered the chance to Resume, go to main menu,  or go to controls/settings. | |			
+| 5 |Asian Arena |Setting is the neon Arena surface. Start the match and timer and play game. While in pause mode you are offered the chance to Resume, go to main menu,  or go to controls/settings. | |			
 | 6 |Install, Load Start |Game should load expediently with options presented on the main menu. The mainmenu will load on user command or after five seconds. | |			
 | 7 | | | |			
 | 8 | | | |			
